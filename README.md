@@ -1,7 +1,7 @@
 # Git Large File Storage
 
 [![CI status][ci_badge]][ci_url]
-
+[![Release](https://github.com/ibanknatoPrad/git-lfs/actions/workflows/release.yml/badge.svg)](https://github.com/ibanknatoPrad/git-lfs/actions/workflows/release.yml)
 [ci_badge]: https://github.com/git-lfs/git-lfs/workflows/CI/badge.svg
 [ci_url]: https://github.com/git-lfs/git-lfs/actions?query=workflow%3ACI
 
